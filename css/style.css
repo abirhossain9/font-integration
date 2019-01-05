@@ -1,0 +1,37 @@
+/*font-family: 'Lobster', cursive;*/
+@font-face{
+	font-family: Presidente;
+	src:url(../downloaded_fonts/Presidente.ttf);
+}
+@font-face
+{
+	font-family: pwf;
+	src: url(../downloaded_fonts/pwf.ttf)
+}
+.fonts
+{
+	background-color: #ddd;
+}
+.cdn
+{
+ border:1px solid black;
+}
+.cdn p
+{
+	font-family: 'Lobster', cursive;
+}
+.dafont{
+	border:1px solid red;
+}
+.dafont p{
+	font-family: Presidente;
+
+}
+.dafont2{
+	border:1px solid blue;
+}
+.dafont2 p{
+	font-family: pwf;
+
+}
+
